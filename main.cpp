@@ -12,7 +12,7 @@ int main(int argc, char* argv[])
     QApplication a(argc, argv);
     a.setApplicationName("BimModelingViewer");
     a.setQuitOnLastWindowClosed(true);
-    //QIcon icon("E:/Qt+VTK+OCC/BimModelingViewer/Resources/Images/icoBimModeling.ico");
+    //QIcon icon("./Resources/Images/icoBimModeling.ico");
     //a.setWindowIcon(icon);
 
     MainWindow w;
