@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="images">
+    <file>Resources/Images/icoBimModeling.ico</file>
+    <file>Resources/Images/open.png</file>
+  </qresource>
+  <qresource prefix="stylesheet">
+    <file>bin/Debug/output/qt_material/material.css</file>
+  </qresource>
+</RCC>
